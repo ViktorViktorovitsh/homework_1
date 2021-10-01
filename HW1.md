@@ -16,7 +16,7 @@ nums = [3, 7, -12, 22, 9, 44, 33, 6, -18, 22]
 
 Дан список компаний и их  капитализация
 ```
-[[Apple, 2,2], [Microsoft, 1,6], [Amazon,  1,6], [Delta Electronics, 1,4], [Alphabet, 1.2], [Tesla, 0,8]]
+[['Apple', 2,2], ['Microsoft', 1,6], ['Amazon',  1,6], ['Delta Electronics', 1,4], ['Alphabet', 1.2], ['Tesla', 0,8]]
 
 ```
 Небходимо получить вывод по следующему образцу:
